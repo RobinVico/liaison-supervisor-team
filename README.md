@@ -42,3 +42,9 @@ Both terminals should use the same permission mode, so cross-session messages ar
 | `references/progress.md` | Template for `PROGRESS.md` |
 
 The skill text is in Chinese.
+
+## License / 许可证
+
+MIT. Anyone can use, modify and share this skill, as long as the copyright notice is kept. See [LICENSE](LICENSE).
+
+MIT 许可证：任何人都可以免费使用、修改和转发，只要保留版权声明。
